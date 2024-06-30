@@ -1,4 +1,5 @@
-DAY 1
+# Day-1
+
 Welcome to the #90DaysOfDevOps Challenge with the #TrainWithShubham Community! Today, we begin our journey into the world of DevOps.
 
 𝟏. 𝐖𝐡𝐚𝐭 𝐢𝐬 𝐃𝐞𝐯𝐎𝐩𝐬?🤖
@@ -15,3 +16,4 @@ Welcome to the #90DaysOfDevOps Challenge with the #TrainWithShubham Community! T
 𝟑. 𝐖𝐡𝐲 𝐃𝐞𝐯𝐎𝐩𝐬 𝐢𝐬 𝐈𝐦𝐩𝐨𝐫𝐭𝐚𝐧𝐭?🌟 
 - DevOps is important because it accelerates software delivery and improves collaboration between teams, resulting in higher-quality and more secure applications. 
 - It enhances efficiency through automation and fosters continuous innovation.
+
