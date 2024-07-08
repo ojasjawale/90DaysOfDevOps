@@ -1,5 +1,5 @@
 
-# Day-7
+# Day-8
 
 Shell Scripting Challenge
 
