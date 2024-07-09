@@ -18,3 +18,4 @@ Welcome to my 90 Days of DevOps Journey! This repository will serve as a log of 
 Checkout my Blog Channel link givem below,
 
 - Blog Channel Link : https://ojasj45.hashnode.dev/
+- LinkedIn Link     : https://www.linkedin.com/in/ojas-jawale-7b1ba31a0/
