@@ -1,4 +1,4 @@
-Welcome to #90DaysOfDevOps!!!
+## Welcome to #90DaysOfDevOps!!!
 
 Welcome to my 90 Days of DevOps Journey! This repository will serve as a log of my daily progress as I delve deep into the world of DevOps over the next 90 days. I will be exploring various tools, practices, and concepts that are essential for modern DevOps practices.
 
@@ -12,7 +12,7 @@ Welcome to my 90 Days of DevOps Journey! This repository will serve as a log of 
 - Develop a solid understanding of cloud platforms (like AWS, AZURE, GCP)
 
 
-Checkout my Blog Channel link givem below,
+## Checkout my Blog Channel link givem below,
 
 - Blog Channel Link : https://ojasj45.hashnode.dev/
 - LinkedIn Link     : https://www.linkedin.com/in/ojas-jawale-7b1ba31a0/
