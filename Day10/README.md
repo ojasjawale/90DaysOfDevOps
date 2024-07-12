@@ -41,8 +41,7 @@ A sample log file named sample_log.log has been provided in the same directory a
 
 Refer Below Link,
 
-    https://github.com/ojasjawale/90DaysOfDevOps/blob/master/Day10/sample_log.log
-
+https://github.com/ojasjawale/90DaysOfDevOps/blob/master/Day10/sample_log.log
 
 Checkout my Blog Channel link givem below,
 
