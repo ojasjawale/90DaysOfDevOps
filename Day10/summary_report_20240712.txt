@@ -1,0 +1,9 @@
+Date of analysis: Fri 12 Jul 2024 07:53:03 PM IST
+Log file name: /home/shuhari/linux/sample_log.log
+Total lines processed: 2000
+Total error count: 13
+Top 5 error messages with their occurrence count:
+12  - Unexpected exception causing shutdown while sock still open
+1  - Unexpected Exception: 
+List of critical events with line numbers:
+
