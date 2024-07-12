@@ -1,6 +1,3 @@
-
-# Day-9
-
 Welcome to my 90 Days of DevOps Journey! This repository will serve as a log of my daily progress as I delve deep into the world of DevOps over the next 90 days. I will be exploring various tools, practices, and concepts that are essential for modern DevOps practices.
 
 ## Goals
@@ -11,8 +8,6 @@ Welcome to my 90 Days of DevOps Journey! This repository will serve as a log of 
 - Explore infrastructure as code with tools like Terraform and Ansible.
 - Improve my skills in monitoring, logging, and observability.
 - Develop a solid understanding of cloud platforms (like AWS, AZURE, GCP)
-
-
 
 
 Checkout my Blog Channel link givem below,
