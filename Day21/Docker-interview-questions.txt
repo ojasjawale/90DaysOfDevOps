@@ -1,0 +1,30 @@
+1.What is the difference between an Image, Container, and Engine?
+2.What is the difference between the Docker command COPY vs ADD?
+3.What is the difference between the Docker command CMD vs RUN?
+4.How will you reduce the size of a Docker image?
+5.Why and when should you use Docker?
+6.Explain the Docker components and how they interact with each other.
+7.Explain the terminology: Docker Compose, Dockerfile, Docker Image, Docker Container.
+8.In what real scenarios have you used Docker?
+9.Docker vs Hypervisor?
+10.What are the advantages and disadvantages of using Docker?
+11.What is a Docker namespace?
+12.What is a Docker registry?
+13.What is an entry point?
+14.How to implement CI/CD in Docker?
+15.Will data on the container be lost when the Docker container exits?
+16.What is a Docker swarm?
+17.What are the Docker commands for the following:
+18.Viewing running containers
+19.Running a container under a specific name
+20.Exporting a Docker image
+21.Importing an existing Docker image
+22.Deleting a container
+23.Removing all stopped containers, unused networks, build caches, and dangling images?
+24.What are the common Docker practices to reduce the size of Docker images?
+25.How do you troubleshoot a Docker container that is not starting?
+26.Can you explain the Docker networking model?
+27.How do you manage persistent storage in Docker?
+28.How do you secure a Docker container?
+29.What is Docker overlay networking?
+30.How do you handle environment variables in Docker?
