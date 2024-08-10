@@ -3,8 +3,8 @@
 
 Jenkins Declarative Pipeline
 
-
 Topics covered,
+
 1.What is Pipeline?
 
 2.What is a Declarative Pipeline?
