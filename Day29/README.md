@@ -43,4 +43,4 @@ Here are some Jenkins-specific questions related to Docker and other DevOps conc
 
 Checkout detail blog below,
 
-
+https://ojasj45.hashnode.dev/jenkins-questions-answers
