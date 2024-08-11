@@ -39,8 +39,8 @@ Here are some Jenkins-specific questions related to Docker and other DevOps conc
 8. **In a scenario where you have multiple teams working on different projects, how would you structure Jenkins jobs and pipelines to ensure efficient resource utilization and manage permissions?**
 9. **Your Jenkins agents are running in a cloud environment, and you notice that build times fluctuate due to varying resource availability. How would you optimize the performance and cost of these agents?**
 
-These questions will help you prepare for your next DevOps interview. Consider writing a blog and sharing your experiences and knowledge on LinkedIn.
+------------
 
-**Happy Learning! :)**
+Checkout detail blog below,
 
-[← Previous Day](../day28/README.md) | [Next Day →](../day30/README.md)
+
